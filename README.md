@@ -19,7 +19,7 @@
 
 | 🏆 Rank | 🎖️ Machines Pwned | 🔥 Active | 🎓 Level |
 |:-------:|:-----------------:|:---------:|:--------:|
-| Unranked | 2 | ✅ Yes | Noob |
+| Unranked | 3 | ✅ Yes | Noob |
 
 </div>
 
@@ -32,6 +32,11 @@
 - ✅ **Fawn** - Starting Point (Very Easy) - Player #437600
   - Fundamentals: FTP Protocol, Anonymous Login, File Transfer
   - Skills: nmap, ftp, service enumeration
+  - Flag Captured: 04 Jan 2026
+
+- ✅ **Dancing** - Starting Point (Very Easy) - Player #376247
+  - Fundamentals: SMB Protocol, Network Shares, File Retrieval
+  - Skills: nmap, smbclient, service enumeration
   - Flag Captured: 04 Jan 2026
 
 📂 **[View HackTheBox Labs Repository →](https://github.com/samli-neo/hackthebox-labs)**
@@ -146,7 +151,7 @@ CTF challenges, machine writeups, and penetration testing documentation
 - 📘 Capstone Challenges
 
 **HackTheBox Starting Point Progress:**
-- ✅ Tier 0: Meow, Fawn (2/8)
+- ✅ Tier 0: Meow, Fawn, Dancing (3/8)
 - ⏳ Tier 1: In Progress
 - 🔒 Tier 2: Locked
 
