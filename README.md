@@ -1,28 +1,163 @@
-# Hi there, I'm Salim Hadda 👋
+<div align="center">
 
-## About Me
-SOC Analyst | Cybersecurity Enthusiast | TryHackMe Player
+# 👋 Hi, I'm Salim Hadda
+### `[0x8][HACKER]` | SOC Analyst | Cybersecurity Enthusiast
 
-## 🎯 TryHackMe Stats
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haddasalim)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/salim.hadda)
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4173029)](https://tryhackme.com/p/samli.neo)
-
-## 🛡️ Skills & Focus Areas
-- Security Operations Center (SOC) Analysis
-- Network Security Monitoring (Snort, Wireshark)
-- SIEM Analysis (Splunk, Elastic Stack)
-- Incident Response & Threat Detection
-- Phishing Analysis
-- Malware Analysis
-
-## 📊 Recent Achievements
-- ✅ Snort Room - 100% Complete
-- ✅ Alert Triage with Elastic - Complete
-- ✅ SOC Metrics and Objectives - 72% Complete
-- ✅ SOC Role in Blue Team - 100% Complete
-
-## 🔗 Connect With Me
-- TryHackMe: [@samli.neo](https://tryhackme.com/p/samli.neo)
+</div>
 
 ---
-*"Constantly learning and improving cybersecurity skills"*
+
+## 🎯 TryHackMe Journey
+
+<div align="center">
+
+[![TryHackMe Stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4173029)](https://tryhackme.com/p/salim.hadda)
+
+| 🏆 Rank | 🎖️ Badges | 🔥 Streak | ✅ Rooms |
+|:-------:|:---------:|:---------:|:--------:|
+| #212,712 | 5 | 2 days | 23 |
+
+</div>
+
+## 🏅 Earned Badges
+
+<div align="center">
+
+| Badge | Achievement | Rarity |
+|:-----:|:-----------:|:------:|
+| 🐗 **Network Hog** | Sniffed out malicious traffic in the network | **EPIC** (0.9%) |
+| 🛡️ **First Step into SOC** | Explored emerging threats and SOC response | **RARE** (5.3%) |
+| 📋 **First Scenario Completed** | Completed first SOC scenario | **RARE** (4.5%) |
+| 🚨 **First Alert Closed** | Closed first security alert | **RARE** (5.4%) |
+| 🔥 **3 Day Streak** | Achieving a 3 day hacking streak | COMMON (42.4%) |
+
+</div>
+
+## 🛡️ Cybersecurity Skills & Focus Areas
+
+```yaml
+Security Operations:
+  - SOC L1 Analysis & Alert Triage
+  - Incident Response & Threat Detection
+  - Security Monitoring & Event Correlation
+  - Phishing Analysis & Prevention
+
+Network Security:
+  - IDS/IPS Configuration (Snort, Suricata)
+  - Network Traffic Analysis (Wireshark, Zeek)
+  - Packet Analysis & Forensics
+  - Malicious Traffic Detection
+
+SIEM & Log Analysis:
+  - Splunk Query Language (SPL)
+  - Elastic Stack (KQL)
+  - Log Correlation & Analysis
+  - Alert Investigation
+
+Threat Intelligence:
+  - YARA Rule Creation
+  - Malware Traffic Analysis
+  - IOC Investigation
+  - Atomic Red Team Testing
+```
+
+## 📚 Completed Rooms & Challenges
+
+### 🔴 Medium Difficulty
+- ✅ **Snort** - IDS/IPS detection & rule creation (100%)
+- ✅ **Carnage (C2)** - Malicious network traffic analysis
+- ✅ **Snort Challenge - The Basics** - Live traffic analysis
+- ✅ **Snort Challenge - Live Attacks** - Active defense
+- ✅ **Zeek Exercises** - Network monitoring
+- ✅ **Atomic Red Team** - Detection capability testing
+- ✅ **YARA Rules** - Anomaly detection
+- ✅ **Secure Network Architecture** - Security best practices
+
+### 🟢 Easy Difficulty
+- ✅ **Junior Security Analyst Intro** - SOC daily operations
+- ✅ **Advent of Cyber Prep Track** - Event preparation
+- ✅ **Linux CLI - Shells Bells** - Command-line mastery
+- ✅ **Phishing - Merry Clickmas** - Social engineering
+- ✅ **Networking Concepts** - ISO OSI & TCP/IP
+- ✅ **Web Application Security** - Common vulnerabilities
+- ✅ **Offensive Security Intro** - Ethical hacking basics
+- ✅ **How Websites Work** - Web fundamentals
+
+## 📊 Current Learning Path
+
+**SOC Level 1 Path Progress:**
+- 📘 Blue Team Introduction ✓
+- 📘 SOC Team Internals (In Progress)
+- 📘 Core SOC Solutions
+- 📘 Cyber Defence Frameworks
+- 📘 Phishing Analysis
+- 📘 Network Traffic Analysis ✓
+- 📘 Network Security Monitoring ✓
+- 📘 Web Security Monitoring (Next)
+- 📘 Windows Security Monitoring
+- 📘 Linux Security Monitoring
+- 📘 Malware Concepts for SOC
+- 📘 Threat Analysis Tools
+- 📘 SIEM Triage for SOC
+- 📘 Capstone Challenges
+
+## 🔧 Tools & Technologies
+
+<div align="center">
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samli-neo&show_icons=true&theme=radical)
+
+</div>
+
+## 🎓 Certifications & Goals
+
+**Currently Pursuing:**
+- 🎯 SOC Level 1 Learning Path (TryHackMe)
+- 🎯 CompTIA Security+ (Planned)
+- 🎯 Blue Team Level 1 Certification (Planned)
+
+**2026 Goals:**
+- 🚀 Complete SOC Level 1 Path
+- 🚀 Achieve Top 100K TryHackMe Rank
+- 🚀 Earn 10+ TryHackMe Badges
+- 🚀 Master Splunk & Elastic Stack
+- 🚀 Complete 50+ Rooms
+
+## 💡 Quote
+
+<div align="center">
+
+> *"In cybersecurity, you're not just protecting data—you're defending people, privacy, and peace of mind."*
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salim_Hadda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haddasalim)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-salim.hadda-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/salim.hadda)
+
+**🔒 Constantly learning. Always defending. Forever curious.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=samli-neo&color=brightgreen&style=for-the-badge)
+
+</div>
