@@ -5,12 +5,33 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haddasalim)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/salim.hadda)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2999443)
 
 </div>
 
 ---
 
-## 🎯 TryHackMe Journey
+## 🎯 CTF Platforms & Achievements
+
+### 🟢 HackTheBox Journey
+
+<div align="center">
+
+| 🏆 Rank | 🎖️ Machines Pwned | 🔥 Active | 🎓 Level |
+|:-------:|:-----------------:|:---------:|:--------:|
+| Unranked | 1 | ✅ Yes | Noob |
+
+</div>
+
+**Completed Machines:**
+- ✅ **Meow** - Starting Point (Very Easy) - Player #533326
+  - Fundamentals: VPN, Network Recon, Telnet, Weak Credentials
+  - Skills: nmap, telnet, basic enumeration
+  - Flag Captured: 04 Jan 2026
+
+📂 **[View HackTheBox Labs Repository →](https://github.com/samli-neo/hackthebox-labs)**
+
+### 🔴 TryHackMe Journey
 
 <div align="center">
 
@@ -57,6 +78,12 @@ SIEM & Log Analysis:
   - Log Correlation & Analysis
   - Alert Investigation
 
+Penetration Testing:
+  - Network Enumeration & Reconnaissance
+  - Service Exploitation
+  - Privilege Escalation
+  - CTF Problem Solving
+
 Threat Intelligence:
   - YARA Rule Creation
   - Malware Traffic Analysis
@@ -64,9 +91,18 @@ Threat Intelligence:
   - Atomic Red Team Testing
 ```
 
-## 📚 Completed Rooms & Challenges
+## 📚 Featured Projects
 
-### 🔴 Medium Difficulty
+### 🎯 [HackTheBox Labs](https://github.com/samli-neo/hackthebox-labs)
+CTF challenges, machine writeups, and penetration testing documentation
+- 🏴 Starting Point Machines
+- 🔐 Retired Machines
+- 📝 Detailed Writeups
+- 🛠️ Tools & Techniques
+
+### 🔴 TryHackMe Completed Rooms
+
+#### Medium Difficulty
 - ✅ **Snort** - IDS/IPS detection & rule creation (100%)
 - ✅ **Carnage (C2)** - Malicious network traffic analysis
 - ✅ **Snort Challenge - The Basics** - Live traffic analysis
@@ -76,7 +112,7 @@ Threat Intelligence:
 - ✅ **YARA Rules** - Anomaly detection
 - ✅ **Secure Network Architecture** - Security best practices
 
-### 🟢 Easy Difficulty
+#### Easy Difficulty
 - ✅ **Junior Security Analyst Intro** - SOC daily operations
 - ✅ **Advent of Cyber Prep Track** - Event preparation
 - ✅ **Linux CLI - Shells Bells** - Command-line mastery
@@ -104,6 +140,11 @@ Threat Intelligence:
 - 📘 SIEM Triage for SOC
 - 📘 Capstone Challenges
 
+**HackTheBox Starting Point Progress:**
+- ✅ Tier 0: Meow (1/8)
+- ⏳ Tier 1: In Progress
+- 🔒 Tier 2: Locked
+
 ## 🔧 Tools & Technologies
 
 <div align="center">
@@ -112,6 +153,8 @@ Threat Intelligence:
 ![Snort](https://img.shields.io/badge/Snort-FF0000?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -129,15 +172,17 @@ Threat Intelligence:
 
 **Currently Pursuing:**
 - 🎯 SOC Level 1 Learning Path (TryHackMe)
+- 🎯 HackTheBox Starting Point (In Progress)
 - 🎯 CompTIA Security+ (Planned)
 - 🎯 Blue Team Level 1 Certification (Planned)
 
 **2026 Goals:**
 - 🚀 Complete SOC Level 1 Path
+- 🚀 Pwn 10+ HackTheBox Machines
 - 🚀 Achieve Top 100K TryHackMe Rank
 - 🚀 Earn 10+ TryHackMe Badges
 - 🚀 Master Splunk & Elastic Stack
-- 🚀 Complete 50+ Rooms
+- 🚀 Complete 50+ TryHackMe Rooms
 
 ## 💡 Quote
 
@@ -155,6 +200,7 @@ Threat Intelligence:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salim_Hadda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haddasalim)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-salim.hadda-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/salim.hadda)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-SalimHadda-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2999443)
 
 **🔒 Constantly learning. Always defending. Forever curious.**
 
