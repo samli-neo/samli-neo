@@ -19,7 +19,7 @@
 
 | 🏆 Rank | 🎖️ Machines Pwned | 🔥 Active | 🎓 Level |
 |:-------:|:-----------------:|:---------:|:--------:|
-| Unranked | 3 | ✅ Yes | Noob |
+| Unranked | 4 | ✅ Yes | Noob |
 
 </div>
 
@@ -38,6 +38,11 @@
   - Fundamentals: SMB Protocol, Network Shares, File Retrieval
   - Skills: nmap, smbclient, service enumeration
   - Flag Captured: 04 Jan 2026
+
+- ✅ **Redeemer** - Starting Point (Very Easy) - Player #286759
+  - Fundamentals: Redis Database, NoSQL, In-Memory Database
+  - Skills: nmap, redis-cli, database enumeration
+  - Flag Captured: 05 Jan 2026
 
 📂 **[View HackTheBox Labs Repository →](https://github.com/samli-neo/hackthebox-labs)**
 
@@ -151,7 +156,7 @@ CTF challenges, machine writeups, and penetration testing documentation
 - 📘 Capstone Challenges
 
 **HackTheBox Starting Point Progress:**
-- ✅ Tier 0: Meow, Fawn, Dancing (3/8)
+- ✅ Tier 0: Meow, Fawn, Dancing, Redeemer (4/8)
 - ⏳ Tier 1: In Progress
 - 🔒 Tier 2: Locked
 
