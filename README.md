@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Salim Hadda
 ### `[0x8][HACKER]` | SOC Analyst | Cybersecurity Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/salim-hadda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haddasalim)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/salim.hadda)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2999443)
 
@@ -213,7 +213,7 @@ CTF challenges, machine writeups, and penetration testing documentation
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salim_Hadda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salim-hadda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salim_Hadda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haddasalim)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-salim.hadda-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/salim.hadda)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-SalimHadda-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2999443)
 
