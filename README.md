@@ -213,7 +213,7 @@ CTF challenges, machine writeups, and penetration testing documentation
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salim_Hadda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haddasalim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salim_Hadda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salim-hadda)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-salim.hadda-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/salim.hadda)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-SalimHadda-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2999443)
 
